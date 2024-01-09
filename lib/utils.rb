@@ -11,7 +11,6 @@ def get_pulse_seed_value_from_nist(timestamp)
   response = Net::HTTP.get(url)
   data = JSON.parse(response)
 
-
   random_value = data['pulse']['outputValue']
   random_value.to_i(16)
 end
