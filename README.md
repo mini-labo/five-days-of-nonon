@@ -15,3 +15,4 @@ confirm here the winners chosen by NIST
 ```ruby main.rb```
 
 Day #1 winner: ```@XuanDavila```
+Day #2 winner: ```@ggtwista```
