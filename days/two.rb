@@ -1,4 +1,4 @@
-## 11:49AM UTC 9th Jan
+## 11:49AM UTC 10th Jan
 DAY_TWO_CLOSING_TIME = '2024-01-10T11:49:00Z'
 
 ## thank you friends 
