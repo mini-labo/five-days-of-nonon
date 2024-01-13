@@ -17,3 +17,4 @@ confirm here the winners chosen by NIST
 Day #1 winner: ```@XuanDavila```
 Day #2 winner: ```@ggtwista```
 Day #3 winner: ```@1Gnomon```
+Day #4 winner: ```@peqrio```
